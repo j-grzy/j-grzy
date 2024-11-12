@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+___
+#### I'm a UX/UI Designer and Front-End Developer based in Leipzig.
 
-<!--
-**j-grzy/j-grzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I am currently completing a Full Stack Web Development course at DCI, sharpening my front-end skills and diving into back-end technologies.
 
-Here are some ideas to get you started:
+💜 I'm focused on creating accessible designs and developing an inclusive web for everyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always looking for new challenges, I learn something new every day!
+
+🐤 And I like birds.
+
+Feel free to check out my projects! 
+___
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb)](https://skillicons.dev)
